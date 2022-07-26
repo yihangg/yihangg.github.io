@@ -1,1 +1,0 @@
-<img src="img/We are a family.jpg" alt="" width="600" height="400">
