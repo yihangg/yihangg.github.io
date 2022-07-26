@@ -1,0 +1,24 @@
+.box {
+    background-color: rgb(214, 214, 214);
+}
+.auto {
+    width: 80%;
+    margin: auto;
+}
+body {
+    color: #555555;
+}
+.box1 {
+    background-color: rgba(0, 189, 236, 0.397);
+
+    border: 2px rgb(0, 0, 0) solid;
+    border-top: 1px rgb(0, 0, 0) solid;
+    border-bottom: 1px black solid;
+
+}
+
+.newauto {
+    margin-left: 40%;
+    
+}
+img { width: 100%; }
